@@ -11,7 +11,7 @@ const Header = () => {
     <header className='bg-[#f8fafc]'>
       <nav className='flex justify-between items-center mx-auto w-[95%]'>
         <div >
-          <h1 className='text-4xl text-red-500'>Dil Foods</h1>
+          <h1 className='text-4xl text-red-500'>DIL STORES</h1>
         </div>
         <div className='nav-links md:static absolute bg-[#f8fafc] md:min-h-fit min-h-[60vh] w-full left-0 top-[-100%] md:w-auto flex items-center' >
           <ul className='flex md:flex-row flex-col md:items-center md:gap-[4vw] gap-8 pl-5'>
